@@ -16,7 +16,7 @@ public class TEST
     public TEST()
     {
         // Instanzvariable initialisieren
-        x = 0;
+        x = 5;
     }
 
     /**
